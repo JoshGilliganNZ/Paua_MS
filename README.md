@@ -9,17 +9,9 @@ The repository provides:
 - R scripts for processing, normalisation, differential expression, and visualisation  
 - Jupyter notebooks for exploratory analyses and figure assembly  
 - Metadata that defines samples, contrasts, and analysis parameters  
-- Manuscript text, supplementary materials, and submission files  
-- Instructions for reproducing the analysis from raw reads to final figures
 
 Raw sequencing data are not stored here. Accession numbers will be added once the manuscript is accepted.
 
-## Project structure
-
-- `analysis/` R scripts, notebooks, and configuration files  
-- `data/` processed data objects such as tximport outputs, count matrices, and VST transformations  
-- `figures/` figure panels and plotting code  
-- `manuscript/` main text and supplementary materials
 
 ## Reproducibility
 
